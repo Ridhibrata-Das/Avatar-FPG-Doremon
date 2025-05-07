@@ -1,6 +1,6 @@
-# Language Learning Platform Clone
+# Friend philosopher and Guide - Doremon
 
-This is a pixel-perfect clone of a language learning platform website built with Next.js, TypeScript, and Tailwind CSS.
+This is a conversational AI career guidance and mental health platform website built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Prerequisites
 
@@ -82,7 +82,3 @@ Please place the following images in the `public/images` directory:
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
